@@ -109,7 +109,7 @@ I'm always open to collaboration and new opportunities. Feel free to reach out t
 - **Email**: hariompandit5556@gmail.com
 - **LinkedIn**: [Hariom Kumar Pandit](https://www.linkedin.com/in/hariom-pandit/)
 - **GitHub**: [hari7261](https://github.com/hari7261)
-- **Portfolio**: [Live Demo](https://hariom-portfolio.vercel.app/)
+- **Portfolio**: [Live Demo](https://hariom.vercel.app/)
 
 ---
 
