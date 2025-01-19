@@ -1,7 +1,3 @@
-Here’s a professional and engaging **README** for your portfolio. It highlights your skills, projects, and how to get in touch with you.
-
----
-
 # Hariom Kumar Pandit - Portfolio
 
 Welcome to my portfolio! This repository showcases my journey as a **Full Stack Developer** and my passion for building innovative and scalable applications. Here, you'll find a collection of my projects, skills, and ways to connect with me.
