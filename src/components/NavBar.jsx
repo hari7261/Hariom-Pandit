@@ -50,7 +50,7 @@ export default function NavBar({ handleClick }) {
       <NavLinks navLinks={navLinks} handleClick={handleClick} />
       <PrimaryButton classname={"hidden"}>
         <a
-          href="https://drive.google.com/file/d/1lgTrPYakFMlFKmEM6oaJNCjeWVDknLj6/view?usp=drive_link"
+          href="https://drive.google.com/file/d/1lgTrPYakFMlFKmEM6oaJNCjeWVDknLj6/vi?usp=drive_link"
           target="_blank"
           rel="noreferrer"
         >
