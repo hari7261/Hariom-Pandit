@@ -75,7 +75,7 @@ const projectData = [
     linkLinkText: "resume-builder-web-system.vercel.app",
   },
   {
-    image: "/src/assets/typing.png",
+    image: "https://github.com/hari7261/Hariom-Pandit/blob/main/src/assets/typing.png",
     heading: "Typing Test",
     desc: "A typing speed assessment tool that helps users improve their typing speed and accuracy.",
     githubLink: "https://github.com/hari7261/Typing-Test",
