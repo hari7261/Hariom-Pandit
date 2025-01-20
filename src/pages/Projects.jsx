@@ -66,7 +66,7 @@ const projectData = [
     linkLinkText: "advanced-weather-five.vercel.app",
   },
   {
-    image: "/src/assets/resumebuilder.png",
+    image: "https://github.com/hari7261/Hariom-Pandit/blob/main/src/assets/resumebuilder.png",
     heading: "Resume Builder Web System",
     desc: "A web-based resume builder that allows users to create, customize, and download professional resumes.",
     githubLink: "https://github.com/hari7261/Resume-Builder-Web-System",
