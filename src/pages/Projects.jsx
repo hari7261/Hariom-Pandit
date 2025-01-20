@@ -3,7 +3,7 @@ import SectionHeading from "../ui/SectionHeading";
 
 const projectData = [
   {
-    image: "https://github.com/hari7261/Hariom-Pandit/blob/main/src/assets/youtube.png",
+    image: "https://raw.githubusercontent.com/hari7261/Hariom-Pandit/main/src/assets/youtube.png",
     heading: "YouTube Clone",
     desc: "A simple YouTube clone built with React, offering a user-friendly interface for browsing and watching videos.",
     githubLink: "https://github.com/hari7261/Youtube-Clone",
@@ -21,7 +21,7 @@ const projectData = [
     linkLinkText: "netflix-cllone.vercel.app",
   },
   {
-    image: "/src/assets/video.png",
+    image: "https://raw.githubusercontent.com/hari7261/Hariom-Pandit/main/src/assets/video.png",
     heading: "VideoTalk",
     desc: "A video chat application enabling real-time communication with friends and colleagues.",
     githubLink: "https://github.com/hari7261/VideoTalk",
@@ -30,7 +30,7 @@ const projectData = [
     linkLinkText: "vid-talk.vercel.app",
   },
   {
-    image: "https://github.com/hari7261/Hariom-Pandit/blob/main/src/assets/githubwarped.png",
+    image: "https://raw.githubusercontent.com/hari7261/Hariom-Pandit/main/src/assets/githubwarped.png",
     heading: "GitHub Wrapped",
     desc: "A tool to visualize your GitHub activity and contributions in a fun and interactive way.",
     githubLink: "https://github.com/hari7261/GitHubWrapped",
@@ -39,7 +39,7 @@ const projectData = [
     linkLinkText: "github-wrapped-peach.vercel.app",
   },
   {
-    image: "/src/assets/chatbot.png",
+    image: "https://raw.githubusercontent.com/hari7261/Hariom-Pandit/main/src/assets/chatbot.png",
     heading: "GenAI Bot",
     desc: "A chatbot powered by Gemini AI, offering intelligent and conversational responses.",
     githubLink: "https://github.com/hari7261/GenAI-Bot",
@@ -57,7 +57,7 @@ const projectData = [
     linkLinkText: "text-code-canvas.vercel.app",
   },
   {
-    image: "/src/assets/advancedweather.png",
+    image: "https://raw.githubusercontent.com/hari7261/Hariom-Pandit/main/src/assets/advancedweather.png",
     heading: "Advanced Weather App",
     desc: "A weather application providing detailed forecasts and real-time weather updates.",
     githubLink: "https://github.com/hari7261/AdvancedWeatherApp",
@@ -66,7 +66,7 @@ const projectData = [
     linkLinkText: "advanced-weather-five.vercel.app",
   },
   {
-    image: "https://github.com/hari7261/Hariom-Pandit/blob/main/src/assets/resumebuilder.png",
+    image: "https://raw.githubusercontent.com/hari7261/Hariom-Pandit/main/src/assets/resumebuilder.png",
     heading: "Resume Builder Web System",
     desc: "A web-based resume builder that allows users to create, customize, and download professional resumes.",
     githubLink: "https://github.com/hari7261/Resume-Builder-Web-System",
@@ -75,7 +75,7 @@ const projectData = [
     linkLinkText: "resume-builder-web-system.vercel.app",
   },
   {
-    image: "https://github.com/hari7261/Hariom-Pandit/blob/main/src/assets/typing.png",
+    image: "https://raw.githubusercontent.com/hari7261/Hariom-Pandit/main/src/assets/typing.png",
     heading: "Typing Test",
     desc: "A typing speed assessment tool that helps users improve their typing speed and accuracy.",
     githubLink: "https://github.com/hari7261/Typing-Test",
