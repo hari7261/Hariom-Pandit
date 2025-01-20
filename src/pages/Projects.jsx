@@ -30,7 +30,7 @@ const projectData = [
     linkLinkText: "vid-talk.vercel.app",
   },
   {
-    image: "/src/assets/githubwarped.png",
+    image: "https://github.com/hari7261/Hariom-Pandit/blob/main/src/assets/githubwarped.png",
     heading: "GitHub Wrapped",
     desc: "A tool to visualize your GitHub activity and contributions in a fun and interactive way.",
     githubLink: "https://github.com/hari7261/GitHubWrapped",
