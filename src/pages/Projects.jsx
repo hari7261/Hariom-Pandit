@@ -48,7 +48,7 @@ const projectData = [
     linkLinkText: "gemini-chatbot-phi-sage.vercel.app",
   },
   {
-    image: "/src/assets/canavas.png",
+    image: "https://raw.githubusercontent.com/hari7261/Hariom-Pandit/main/src/assets/canavas.png",
     heading: "CodeCanvas",
     desc: "A text-based code editor with real-time rendering and syntax highlighting.",
     githubLink: "https://github.com/hari7261/CodeCanvas",
