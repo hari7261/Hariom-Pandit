@@ -3,7 +3,7 @@ import SectionHeading from "../ui/SectionHeading";
 
 const projectData = [
   {
-    image: "/src/assets/youtube.png",
+    image: "https://github.com/hari7261/Hariom-Pandit/blob/main/src/assets/youtube.png",
     heading: "YouTube Clone",
     desc: "A simple YouTube clone built with React, offering a user-friendly interface for browsing and watching videos.",
     githubLink: "https://github.com/hari7261/Youtube-Clone",
