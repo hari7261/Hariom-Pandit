@@ -204,24 +204,22 @@ html::-webkit-scrollbar-thumb:hover {
 }
 
 
-/* Tailwind CSS (or add to your existing CSS) */
-.rounded-lg {
-  border-radius: 0.5rem;
+/* Tooltip styling */
+.tooltip {
+  position: absolute;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: rgba(0, 0, 0, 0.8);
+  color: white;
+  padding: 5px 10px;
+  border-radius: 5px;
+  font-size: 14px;
+  opacity: 0;
+  transition: opacity 0.3s ease;
 }
 
-.border {
-  border-width: 1px;
-}
-
-.border-gray-700 {
-  border-color: #374151;
-}
-
-.shadow-lg {
-  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1),
-    0 4px 6px -2px rgba(0, 0, 0, 0.05);
-}
-
-.hover\:bg-gray-800:hover {
-  background-color: #1f2937;
+/* Hover effect for icons */
+.tech-icon:hover+.tooltip {
+  opacity: 1;
 }

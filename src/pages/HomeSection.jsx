@@ -1,6 +1,4 @@
 import { motion } from "framer-motion";
-
-import NavBar from "../components/NavBar";
 import BlackHole from "../ui/BlackHole";
 import MainContent from "../components/MainContent";
 import SideImage from "../ui/SideImage";

@@ -35,37 +35,6 @@ export default function About() {
           impactful. Let's build the future together!
         </p>
 
-        {/* Resume Button */}
-        {/* <div className="mt-4 flex justify-center gap-4 sm:justify-start">
-          <a
-            href="https://drive.google.com/file/d/1lgTrPYakFMlFKmEM6oaJNCjeWVDknLj6/view?usp=drive_link"
-            target="_blank"
-            rel="noreferrer"
-            className="group flex items-center gap-2 rounded-md bg-purple-600 px-6 py-2 text-lg font-semibold text-white transition-all duration-300 hover:bg-purple-700 hover:shadow-lg"
-          >
-            View Resume
-            <svg
-              xmlns="http://www.w3.org/2000/svg"
-              fill="none"
-              viewBox="0 0 24 24"
-              strokeWidth={1.5}
-              stroke="currentColor"
-              className="h-5 w-5 transition-transform duration-300 group-hover:translate-x-1"
-            >
-              <path
-                strokeLinecap="round"
-                strokeLinejoin="round"
-                d="m4.5 19.5 15-15m0 0H8.25m11.25 0v11.25"
-              />
-            </svg>
-          </a>
-          <button
-            onClick={() => toast.error("Feature yet to be complete")}
-            className="rounded-md border border-purple-600 px-6 py-2 text-lg font-semibold text-purple-600 transition-all duration-300 hover:bg-purple-600 hover:text-white"
-          >
-            Contact Me
-          </button>
-        </div> */}
       </div>
 
       {/* Right Section: Image */}
